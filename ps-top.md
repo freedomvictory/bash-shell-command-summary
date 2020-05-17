@@ -8,4 +8,4 @@
 Here is an example:
 
 *ps command picture:* 
-![alt text](.\\pictures\\ps\\ps_ef_forest.png "ps")
+![alt text](./pictures/ps/ps_ef_forest.png "ps")
