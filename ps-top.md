@@ -9,3 +9,10 @@ Here is an example:
 
 *ps command picture:* 
 ![alt text](./pictures/ps/ps_ef_forest.png "ps")
+
+
+## top 
+
+*top command picture* 
+![alt text](./pictures/ps/top_show.png "top")
+
