@@ -1,8 +1,23 @@
-## instruction
+## Instruction
 This is my bash shell command summary notes.This repo recorded  how to use common bash shell commands and how to write a good shell script.
 
 
-## directory and files 
+## Directory and files
 
-- ps-top.md : ps and top command 
-[ps and top](https://github.com/freedomvictory/bash-shell-command-summary/blob/master/ps-top.md)
+
+
+1. `directory`
+    - [`ls-cp-rm-mv-pwd.md`](directory/ls-cp-rm-mv-pwd.md)
+2. `network`
+    - [`ss.md`](network/ss.md)
+3. `reg-exp`
+    - [`reg-exp.md`](network/reg-exp.md)
+4. `system`
+    - [`ps-top.md`](system/ps-top.md)
+5. `find-file-text` 
+    - [`find.md`](find-file-text/find.md)
+    - [`grep.md`](find-file-text/grep.md)
+    - [`ack.md`](find-file-text/ack.md)
+
+
+
