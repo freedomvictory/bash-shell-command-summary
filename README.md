@@ -19,5 +19,8 @@ This is my bash shell command summary notes.This repo recorded  how to use commo
     - [`grep.md`](find-file-text/grep.md)
     - [`ack.md`](find-file-text/ack.md)
 
+6. `shell`
+    - [`tmux.md`](shell/tmux.md)
+
 
 
