@@ -40,3 +40,5 @@
 - `tar -jxvf output.tar.gz2`
 
 - `unzip xxxx.zip -d /somedir`
+
+- `unrar -e **.rar`
