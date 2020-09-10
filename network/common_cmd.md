@@ -15,6 +15,46 @@ less /etc/services  | grep 'PORTNUMER'
 arp-scan  -l -I enp2s0 
 ```
 
+## TELNET 
+
+1. Instruction 
+    It's a text-based program you can use to connect to another computer using the internet. 
+
+2. How to use it 
+
+    ```bash
+    #connect
+    Telnet <host_name> <port>
+    # send data to host 
+    
+
+
+    ```
+
+
+## DNS `nsloopup`
+
+1. Instruction 
+
+    It's a program to query internet domain name servers `nslookup` has two modes, interactive and non-interactive. 
+
+2. How to use it
+
+    - non-interactive mode 
+
+        `nslookup [-option] [name |-] [server]`
+
+    - interactive mode 
+
+        `nslookup`
+
+3. Reference 
+
+    [`nslookup`](https://www.tutorialspoint.com/unix_commands/nslookup.htm)
+
+
+
+
 ## Configure network 
 
 The flowing command is suitable for `UBUNTU`

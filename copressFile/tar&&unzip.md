@@ -42,3 +42,4 @@
 - `unzip xxxx.zip -d /somedir`
 
 - `unrar -e **.rar`
+- `xz -d -v *.xz`
