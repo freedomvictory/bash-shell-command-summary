@@ -66,3 +66,8 @@ The flowing command is suitable for `UBUNTU`
     # DNS
     echo "nameserver 8.8.8.8">/etc/resolv.conf 
 ```
+
+another way configure DNS for `UBUNTU`
+
+`systemd-resolve --set-dns=114.114.114.114 --interface=enp2s0`
+
